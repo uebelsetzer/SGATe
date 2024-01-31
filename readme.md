@@ -38,7 +38,9 @@ The last two of these files are XML samples that contain a document annotated wi
 
 In the XML files, the structure goes from a "text" tag that ancompasses each document and contains information about it from EFCAMDAT. An example of this kind of information would be:
 
+```
 <id>C17862</id><level>10</level><unit>3<unit><learner_nationality>cn</learner_nationality><topic_id>274</topic_id><grade>84</grade><level>10</level>
+```
 
 There one can see the ID, Cambridge level, unit, nationality, topic and grade of the learner/document.
 
